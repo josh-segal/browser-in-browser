@@ -2,6 +2,8 @@
 
 Generate custom UIs to display live data from any website.
 
+![BiB Demo](public/BIB_Demo.gif)
+
 ## Quick Start
 
 ### Backend
